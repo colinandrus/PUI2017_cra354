@@ -8,7 +8,7 @@ cd
 vi .bash_profile
 ```
 
-Then inside the vi editor I added these two lines to create and environmental variable and alias respectively:
+Then inside the vi editor I added these two lines to create an environmental variable and alias respectively:
 ```
 export PUI2017="/Users/Colin/Google_Drive/CUSP/PUI"
 alias pui2017="cd $PUI2017"
@@ -24,5 +24,6 @@ pui2017
 pwd
 ```
 This was the output:
+
 ![Alt text](hw1_imgs/commands.png)
 
