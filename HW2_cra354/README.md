@@ -2,7 +2,7 @@
 
 ### Who did what: ###
 
-#For this homework I worked alone and used a few online resources for help.
+For this homework I worked alone and used a few online resources for help.
 
  * **https://github.com/fedhere/PUI2017_fb55/blob/master/Lab2_fb55/APIreadingJson.py.ipynb**
  Used the same methods provied in the notebook to read in json object from a url and not throw errors depending on what urllib installation.
