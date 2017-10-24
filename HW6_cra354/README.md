@@ -1,4 +1,4 @@
 # HW 6
 
-For this homework I worked alone and did not collaborated with anyone else.
+For this homework I worked alone and did not collaborate with anyone else.
 
