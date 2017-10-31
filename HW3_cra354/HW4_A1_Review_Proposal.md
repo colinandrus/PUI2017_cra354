@@ -11,6 +11,8 @@ It's possible to include average ages of riders instead of removing all NaN year
 ### The suggested significance test
 To test significance, there are a few routes we could go. I recommend the **Chi Squared goodness of fit** test for the following reasons. First, the Chi Squared test is optimal when the main question is asking "do data match an expected ratio?" For comparing the duration of trips between two age categories, this describes what we're looking for well. Next, the test only focus on one sample, and also only has one variable (age group). 
 
+# FBB: Sara and Colin : notice that is not Chi sq for goodness of fit bur chisq for proportions!
+
 ##### references: 
 * [wikipedia chi squared](https://en.wikipedia.org/wiki/Chi-squared_test)
 * [stats test flow chart](https://i.pinimg.com/originals/da/c9/60/dac96086a651aea01b0ef24da4faaa9f.jpg)
