@@ -14,12 +14,12 @@ ANOVA | 1, what pattern | categorical | 1, Hit % | numerical | 2 ( Speed, disapp
 Path Analysis |6, maternal death, direct costs, the amount of money offset by positive and negative coping strategies, whether the husband remarried, and whether the newborn was alive  | categorical, numeric for money | 2, follow-up income, follow-up expenditure |  numeric | 1, maternal age | numeric | What factors influence costs and income after maternal deaths | ∆ of an exogenous variable does not affect ∆ of endogenous variables | p < 0.05 | http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0134756|
   |||||||||
 
-FBB: Good on the literature review but more clarity in the H0 is needed: 
-ANOVA: what do you measure in Group A and B? I think it is the hitting rate, but I cannot tell from your H0
+## FBB: Good on the literature review but more clarity in the H0 is needed: 
+## ANOVA: what do you measure in Group A and B? I think it is the hitting rate, but I cannot tell from your H0
 
-Logistic Regression - Helmet = NoHelmet for all injury types what is actually measured? number of injuries, fraction of injuries, severity of injury? 
+## Logistic Regression - Helmet = NoHelmet for all injury types what is actually measured? number of injuries, fraction of injuries, severity of injury? 
 
-Path Analysis - what is Delta
+## Path Analysis - what is Delta
 
 
 
