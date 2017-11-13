@@ -10,4 +10,4 @@ https://www.authorea.com/211228/56GEc9K-lcBvqvy40i-rHw
 
 
 ***Assignment 2:***
-Not submitted yet
+Run using python2. Will not work with python3!
