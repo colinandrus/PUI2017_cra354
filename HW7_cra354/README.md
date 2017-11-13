@@ -10,4 +10,5 @@ https://www.authorea.com/211228/56GEc9K-lcBvqvy40i-rHw
 
 
 ***Assignment 2:***
+I used the code we had wrote together in class for some problems and edited it to show station names rather than the data for making a map with CARTO.
 Run using python2. Will not work with python3!
