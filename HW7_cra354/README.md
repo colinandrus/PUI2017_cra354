@@ -1,6 +1,6 @@
 ### HW7
 
-***Assignment 1:***
+***Assignment 1:Run using python3***
 
 I worked alone on my Authorea article from the updated HW3 citinike project using Sarah Schoengold's (sebscho) reccomendations.
 
