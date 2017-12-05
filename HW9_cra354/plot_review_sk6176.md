@@ -9,6 +9,7 @@ Your plot's area shows all of Manhattan, but this does create some extra white s
 ![alt text](sunglyoung_plot.png)
 
 # FBB good 
-you touched on all comments I have as well, with the exception of the map distortion, which I find unjustified
+you touched on all comments I have as well, with the exception of the map distortion, which I find unjustified and on the point that if labels are to be kept, since state coordinates are not dimensionless the units must be specified (feet)
+
 
 10/10
