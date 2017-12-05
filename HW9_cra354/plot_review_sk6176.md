@@ -7,3 +7,8 @@ Since the map is clearly titled and the exact coordinates of the wifi hotspots a
 Your plot's area shows all of Manhattan, but this does create some extra white space on the left side.  Possibly removing Ellis, Liberty and Governor's islands from the map would be fair since they don't have wifi hotspots on them and the plot would show more of the pertinent areas of Manhattan in terms of wifi hotspots. 
 
 ![alt text](sunglyoung_plot.png)
+
+# FBB good 
+you touched on all comments I have as well, with the exception of the map distortion, which I find unjustified
+
+10/10
