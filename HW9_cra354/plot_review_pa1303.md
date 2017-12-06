@@ -7,3 +7,7 @@ The limits on the x and y axes and the sizing of the circles are appropriate and
 You plot's esthetics are clean and not distracting at all.  From a glance it is easy to tell what you are showing in the data. 
 
 ![alt text](prince_plot.png)
+
+# FBB all good points
+ 
+ 10/10
